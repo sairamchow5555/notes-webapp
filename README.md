@@ -1,3 +1,7 @@
+![Screenshot 2023-11-30 at 3 11 37 PM](https://github.com/sairamchow5555/notes-webapp/assets/126855559/e68b5ad3-7927-4f05-905d-3dc23f2f6b3c)
+
+![Screenshot 2023-11-30 at 3 12 45 PM](https://github.com/sairamchow5555/notes-webapp/assets/126855559/5c4e5f1d-ed20-4d1b-925f-f9186dc45a2b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
